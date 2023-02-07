@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+.widget3{
+    background-color: #EEEEEE;
+    margin: 10px;
+    height: 48vh;
+    font-family: 'Itim', cursive;
+    overflow: scroll;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  }
+
+  .newsContainer{
+    margin: 0px 30px 0px 40px;
+  }
+
+  .categorySelector{
+      margin: 30px 0px 40px 30px;
+  }
+
+  .categorySelector label{
+    color: #393E46;
+    font-size: 1.4rem;
+    margin-right: 10px;
+  }
+
+  .categorySelector select{
+    background-color: #00ADB5;
+    color: #fff;
+    width: 140px;
+    height: 30px;
+    border: none;
+    border-radius: 20px;
+  }
+
+  .eachArticle{
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+  }
+
+  .eachArticle h1{
+    padding: 10px 20px 0px 20px;
+    }
+
+  .eachArticle p{
+    padding: 0px 30px 10px 30px;
+   }

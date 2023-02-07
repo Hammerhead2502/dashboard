@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+.widget2{
+    background-color: #EEEEEE;
+    margin: 10px;
+    height: 48vh;
+    overflow: auto;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  }
+
+  .dataContainer{
+    margin: 30px 30px 0px 30px;
+  }
+
+  .dataContainer h1{ 
+    font-family: 'Itim', cursive;
+    font-size: 2.5rem;
+  }
+
+  .dataContainer p{ 
+    margin-left: 20px;
+    font-family: 'Itim', cursive;
+    font-size: 1.5rem;
+  }

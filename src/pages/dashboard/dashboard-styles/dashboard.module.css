@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&display=swap');
+
+.mainLayout{
+    display: flex;
+}
+
+.gridLayout{
+    display: grid;
+    width: 100vw;
+    height: 100vh;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.sidebar{
+    width: 16%;
+    height: 100vh;
+    background-color: #222831;
+  }
+
+  .options{
+    margin: 30px 0px 0px 0px;
+    background-color: #393E46;
+    color: #EEEEEE;
+    width: 100%;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    font-family: 'Bad Script', cursive;
+    font-weight: bolder;
+    font-size: 1.9rem;
+  }
+
+  .userImage{
+    margin: 50px 0px 30px 30px;
+    width: 190px;
+    height: 190px;
+    border-radius: 100%;
+  }
+
+  .options:hover{
+    background-color: #EEEEEE;
+    color: #393E46;
+  }
+

@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+.widget1{
+    background-color:#EEEEEE;
+    margin: 10px;
+    height: 48vh;
+    overflow: auto;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  }
+
+.input{
+  margin: 30px 0px 0px 30px;
+  background-color: #fff;
+  height: 30px;
+}
+
+.button{
+  position: relative;
+  right: 40px;
+  background-color: #00ADB5;
+  font-family: 'Itim', cursive;
+  color: #fff;
+}
+
+.dataContainer{
+  margin: 40px 0px 0px 40px;
+}
+
+.dataContainer p{
+  color: #393E46;
+  font-size: 1.7rem;
+  font-weight: bolder;
+  font-family: 'Itim', cursive;
+}

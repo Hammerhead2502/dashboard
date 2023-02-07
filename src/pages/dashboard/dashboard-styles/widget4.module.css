@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+.widget4{
+    background-color: #EEEEEE;
+    margin: 10px;
+    height: 48vh;
+    font-family: 'Itim', cursive;
+    overflow: scroll;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  }
+  
+  .searchStocks{
+    margin: 30px 0px 30px 30px;
+  }
+
+  .searchStocks label{
+    font-size: 1.4rem;
+    margin-right: 10px;
+  }
+
+  .searchStocks input{
+    background-color: #fff;
+  height: 30px;
+  }
+
+  .searchStocks button{
+  position: relative;
+  right: 25px;
+  background-color: #00ADB5;
+  font-family: 'Itim', cursive;
+  color: #fff;
+  }
+
+  .displayData{
+    margin: 20px 20px 0px 40px;
+  }
+
+  .eachStock{
+    margin: 10px;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+  }
+
+  .eachStock h3{
+    padding-top: 10px;
+    margin: 30px 0px 10px 20px;
+    font-size: 2rem;
+  }
+
+  .eachStock p{
+    margin: 15px 0px 0px 30px;
+    padding-bottom: 10px;
+    font-size: 1.2rem;
+  }
